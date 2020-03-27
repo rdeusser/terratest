@@ -17,10 +17,10 @@ import (
 	"github.com/stretchr/testify/require"
 	appsv1 "k8s.io/api/apps/v1"
 
-	"github.com/gruntwork-io/terratest/modules/helm"
-	"github.com/gruntwork-io/terratest/modules/k8s"
-	"github.com/gruntwork-io/terratest/modules/logger"
-	"github.com/gruntwork-io/terratest/modules/random"
+	"github.com/rdeusser/terratest/modules/helm"
+	"github.com/rdeusser/terratest/modules/k8s"
+	"github.com/rdeusser/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/random"
 )
 
 // This file contains examples of how to use terratest to test helm chart template logic by rendering the templates

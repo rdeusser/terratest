@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/logger"
-	"github.com/gruntwork-io/terratest/modules/random"
+	"github.com/rdeusser/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/random"
 	"github.com/oracle/oci-go-sdk/common"
 	"github.com/oracle/oci-go-sdk/identity"
 )

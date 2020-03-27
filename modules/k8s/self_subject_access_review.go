@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/require"
 	authv1 "k8s.io/api/authorization/v1"
 
-	"github.com/gruntwork-io/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/logger"
 )
 
 // CanIDo returns whether or not the provided action is allowed by the client configured by the provided kubectl option.

@@ -7,7 +7,7 @@ import (
 	"github.com/gruntwork-io/gruntwork-cli/errors"
 	"github.com/stretchr/testify/require"
 
-	"github.com/gruntwork-io/terratest/modules/files"
+	"github.com/rdeusser/terratest/modules/files"
 )
 
 // Install will install the selected helm chart with the provided options under the given release name. This will fail

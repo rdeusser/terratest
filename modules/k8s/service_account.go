@@ -12,8 +12,8 @@ import (
 	"k8s.io/client-go/tools/clientcmd"
 	"k8s.io/client-go/tools/clientcmd/api"
 
-	"github.com/gruntwork-io/terratest/modules/logger"
-	"github.com/gruntwork-io/terratest/modules/retry"
+	"github.com/rdeusser/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/retry"
 )
 
 // GetServiceAccount returns a Kubernetes service account resource in the provided namespace with the given name. The

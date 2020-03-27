@@ -42,7 +42,7 @@ import (
 	"github.com/gruntwork-io/gruntwork-cli/entrypoint"
 	"github.com/gruntwork-io/gruntwork-cli/errors"
 	"github.com/gruntwork-io/gruntwork-cli/logging"
-	"github.com/gruntwork-io/terratest/modules/logger/parser"
+	"github.com/rdeusser/terratest/modules/logger/parser"
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )

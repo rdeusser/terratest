@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/gcp"
-	"github.com/gruntwork-io/terratest/modules/packer"
+	"github.com/rdeusser/terratest/modules/gcp"
+	"github.com/rdeusser/terratest/modules/packer"
 )
 
 // An example of how to test the Packer template in examples/packer-basic-example using Terratest.

@@ -14,7 +14,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/gruntwork-io/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/logger"
 )
 
 // Command is a simpler struct for defining commands than Go's built-in Cmd.

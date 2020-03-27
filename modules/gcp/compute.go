@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gruntwork-io/terratest/modules/retry"
+	"github.com/rdeusser/terratest/modules/retry"
 
-	"github.com/gruntwork-io/terratest/modules/logger"
-	"github.com/gruntwork-io/terratest/modules/random"
+	"github.com/rdeusser/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/random"
 	"golang.org/x/oauth2/google"
 	"google.golang.org/api/compute/v1"
 )

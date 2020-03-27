@@ -9,7 +9,7 @@ import (
 	"github.com/gruntwork-io/gruntwork-cli/errors"
 	"github.com/stretchr/testify/require"
 
-	"github.com/gruntwork-io/terratest/modules/files"
+	"github.com/rdeusser/terratest/modules/files"
 )
 
 // RenderTemplate runs `helm template` to render the template given the provided options and returns stdout/stderr from

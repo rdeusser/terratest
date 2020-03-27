@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/gruntwork-io/gruntwork-cli/errors"
-	"github.com/gruntwork-io/terratest/modules/files"
+	"github.com/rdeusser/terratest/modules/files"
 	"github.com/stretchr/testify/require"
 )
 

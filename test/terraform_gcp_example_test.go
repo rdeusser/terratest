@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gruntwork-io/terratest/modules/gcp"
-	"github.com/gruntwork-io/terratest/modules/random"
-	"github.com/gruntwork-io/terratest/modules/retry"
-	"github.com/gruntwork-io/terratest/modules/ssh"
-	"github.com/gruntwork-io/terratest/modules/terraform"
-	test_structure "github.com/gruntwork-io/terratest/modules/test-structure"
+	"github.com/rdeusser/terratest/modules/gcp"
+	"github.com/rdeusser/terratest/modules/random"
+	"github.com/rdeusser/terratest/modules/retry"
+	"github.com/rdeusser/terratest/modules/ssh"
+	"github.com/rdeusser/terratest/modules/terraform"
+	test_structure "github.com/rdeusser/terratest/modules/test-structure"
 	"github.com/stretchr/testify/assert"
 )
 

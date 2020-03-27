@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gruntwork-io/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/logger"
 )
 
 type GetResponse struct {

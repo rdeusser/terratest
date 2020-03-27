@@ -7,7 +7,7 @@
       default: true
   learn_more:
     - name: Terraform Hello, World
-      url: https://github.com/gruntwork-io/terratest/tree/master/examples/terraform-hello-world-example
+      url: https://github.com/rdeusser/terratest/tree/master/examples/terraform-hello-world-example
 
 - id: packer-hello-world
   name: Packer Hello, World Example
@@ -18,7 +18,7 @@
       default: true
   learn_more:
     - name: Packer Hello, World
-      url: https://github.com/gruntwork-io/terratest/tree/master/examples/packer-hello-world-example
+      url: https://github.com/rdeusser/terratest/tree/master/examples/packer-hello-world-example
 
 - id: docker-hello-world
   name: Docker Hello, World Example
@@ -30,7 +30,7 @@
       default: true
   learn_more:
     - name: Docker Hello, World
-      url: https://github.com/gruntwork-io/terratest/tree/master/examples/docker-hello-world-example
+      url: https://github.com/rdeusser/terratest/tree/master/examples/docker-hello-world-example
 
 - id: kubernetes-hello-world
   name: Kubernetes Hello, World Example
@@ -41,7 +41,7 @@
       default: true
   learn_more:
     - name: Kubernetes Hello, World
-      url: https://github.com/gruntwork-io/terratest/tree/master/examples/kubernetes-hello-world-example
+      url: https://github.com/rdeusser/terratest/tree/master/examples/kubernetes-hello-world-example
 
 - id: aws-hello-world
   name: AWS Hello, World Example
@@ -52,7 +52,7 @@
       default: true
   learn_more:
     - name: AWS Hello, World
-      url: https://github.com/gruntwork-io/terratest/tree/master/examples/terraform-aws-hello-world-example
+      url: https://github.com/rdeusser/terratest/tree/master/examples/terraform-aws-hello-world-example
 
 - id: gcp-hello-world
   name: GCP Hello, World Example
@@ -63,7 +63,7 @@
       default: true
   learn_more:
     - name: GCP Hello, World
-      url: https://github.com/gruntwork-io/terratest/tree/master/examples/terraform-gcp-hello-world-example
+      url: https://github.com/rdeusser/terratest/tree/master/examples/terraform-gcp-hello-world-example
 
 - id: azure-basic
   name: Azure Hello, World Example
@@ -76,4 +76,4 @@
       default: true
   learn_more:
     - name: Terraform Azure Example
-      url: https://github.com/gruntwork-io/terratest/tree/master/examples/terraform-azure-example
+      url: https://github.com/rdeusser/terratest/tree/master/examples/terraform-azure-example

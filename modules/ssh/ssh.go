@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gruntwork-io/terratest/modules/customerrors"
-	"github.com/gruntwork-io/terratest/modules/files"
-	"github.com/gruntwork-io/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/customerrors"
+	"github.com/rdeusser/terratest/modules/files"
+	"github.com/rdeusser/terratest/modules/logger"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"
 )

@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/gruntwork-io/gruntwork-cli/files"
-	"github.com/gruntwork-io/terratest/modules/random"
+	"github.com/rdeusser/terratest/modules/random"
 	"github.com/stretchr/testify/assert"
 )
 

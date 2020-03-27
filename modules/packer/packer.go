@@ -9,11 +9,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gruntwork-io/terratest/modules/retry"
+	"github.com/rdeusser/terratest/modules/retry"
 
-	"github.com/gruntwork-io/terratest/modules/customerrors"
-	"github.com/gruntwork-io/terratest/modules/logger"
-	"github.com/gruntwork-io/terratest/modules/shell"
+	"github.com/rdeusser/terratest/modules/customerrors"
+	"github.com/rdeusser/terratest/modules/logger"
+	"github.com/rdeusser/terratest/modules/shell"
 )
 
 // Options are the options for Packer.

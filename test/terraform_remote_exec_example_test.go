@@ -8,11 +8,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/aws"
-	"github.com/gruntwork-io/terratest/modules/random"
-	"github.com/gruntwork-io/terratest/modules/ssh"
-	"github.com/gruntwork-io/terratest/modules/terraform"
-	test_structure "github.com/gruntwork-io/terratest/modules/test-structure"
+	"github.com/rdeusser/terratest/modules/aws"
+	"github.com/rdeusser/terratest/modules/random"
+	"github.com/rdeusser/terratest/modules/ssh"
+	"github.com/rdeusser/terratest/modules/terraform"
+	test_structure "github.com/rdeusser/terratest/modules/test-structure"
 	"github.com/stretchr/testify/assert"
 )
 
